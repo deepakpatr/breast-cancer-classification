@@ -1,0 +1,1 @@
+In this project I use Deep learning approach where I used keras Sequential with optimizer as adam and loss function as 'sparse_categorical_crossentropy' to predict whether a person has 'Malignant' or 'Benign' cancer . Here I got a accuracy of 97% of my test data.
